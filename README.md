@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aminu Dzara!
 
-I'm a passionate **data enthusiast** from Nigeria, dedicated to harnessing the power of data for **social impact**. With a strong foundation in **Computer Science**, I am continually expanding my skills to tackle real-world challenges.
+I'm a passionate **data professional**, dedicated to harnessing the power of data for **social impact**. With a strong foundation in **Computer Science**, I am continually expanding my skills to tackle real-world challenges.
 
 💻 Currently, I'm diving into the world of **data science** and **machine learning**, exploring how data can drive innovation and impact in humanitarian and development sectors.
 
